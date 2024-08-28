@@ -53,7 +53,7 @@ Boris Šehovac */
     font-size: inherit;
     overflow: visible;
     vertical-align: -0.125em;
-    preserveAspectRatio: none;
+    perspective-origin: none;
   }
   
   .range {
